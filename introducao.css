@@ -19,5 +19,11 @@
 }
 
 .introducaopc__texto{
-    
+    font-family: 'Bellota';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 37px;
+    line-height: 47px;
+    text-align: center;
+    padding: 0em 4em 0 4em;
 }
