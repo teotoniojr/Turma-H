@@ -1,0 +1,23 @@
+.introducaopc{
+    background: linear-gradient(180deg, #BFDBF7 -0.47%, #608398 49.82%, #022B3A 100.11%, rgba(217, 217, 217, 0) 100.12%, #022B3A 100.12%);
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+}
+.introducao__tituloImagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.introducaopc__imagem {
+    padding: 20px;
+    width: 10%;
+}
+
+.introducaopc__titulo{
+    font-family: 'Aclonica', sans-serif;
+}
+
+.introducaopc__texto{
+    
+}
